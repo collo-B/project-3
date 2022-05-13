@@ -28,3 +28,10 @@ function quesd () {
     c=c+2;
     console.log(c);
 }
+function quese () {
+    var q5=console.quiz5;
+    var d=11+4;
+    if (q5=="d");
+    c=c+2;
+    console.log(c);
+}
