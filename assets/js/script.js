@@ -85,12 +85,12 @@ function checkers() {
   }
   quiz.style.display = "none";
   if (score <= 5) {
-    done.textContent = "you scored ${score}. POOR!";
+    done.textContent = score + "" + "is your score. POOR!";
   } else if (score <= 10) {
-    done.textContent = "you scored ${score}. FAIR";
+    done.textContent = score + "" + "is your score. FAIR";
   } else if (score <= 15) {
-    done.textContent = "you scored ${score}. GOOD!";
+    done.textContent = score + "" + "is your score. GOOD!";
   } else if (score <= 20) {
-    done.textContent = "you scored ${score}. EXCELLENT!!";
+    done.textContent = score + "" + "is your score. EXCELLENT!!";
   }
 }
