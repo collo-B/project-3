@@ -18,6 +18,7 @@ To access this project on your local files, you can clone it using these steps
    3.(https://github.com/collo-B/project-3.git)
 3. This will clone the repositoty into your local folder
    {Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? Do I need to install any dependencies? How should I set up my databases? Is there other code this app depends on?}
+4. Figma design link of the quiz board (https://www.figma.com/file/y84lFlM5rNSEnImZh0W2Ps/quizBoard?node-id=0%3A1)
 
 ### Technology Used
 
