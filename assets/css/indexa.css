@@ -18,3 +18,9 @@ body {
     text-decoration: none;
     text-shadow: 5px;
 }
+p {
+    margin-bottom: 40px;
+    font-size: x-large;
+    margin-right: 40px;
+
+}
