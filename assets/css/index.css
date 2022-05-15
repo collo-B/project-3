@@ -1,0 +1,105 @@
+body {
+    background-color: darkslategray;
+}
+p {
+    color: white;
+    font-size: large;
+    margin-left: 20px;
+}
+em {
+    color: chocolate;
+}
+#submit {
+    padding: 15px;
+}
+#restart {
+    padding: 15px;
+}
+#res {
+    color: black;
+    background-color: chocolate;
+    font-size: x-large;
+    padding: 7px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+#done {
+    font-size: xx-large;
+    font-style: italic;
+    color: coral;
+}
+.assignment {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+}
+.container1{
+background-color: rgb(75, 103, 112);
+margin-right: 500px;
+border-radius: 8px;
+margin-top: 8px;
+margin-bottom: 8px;
+}
+.container2{
+    background-color: rgb(75, 103, 112);
+    margin-right: 500px;
+    border-radius: 8px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    }
+    .container3{
+        background-color: rgb(75, 103, 112);
+        margin-right: 500px;
+        border-radius: 8px;
+        margin-top: 8px;
+        margin-bottom: 8px;
+        }
+        .container4{
+            background-color: rgb(75, 103, 112);
+            margin-right: 500px;
+            border-radius: 8px;
+            margin-top: 8px;
+            margin-bottom: 8px;
+            }
+            .container5{
+                background-color: rgb(75, 103, 112);
+                margin-right: 500px;
+                border-radius: 8px;
+                margin-top: 8px;
+                margin-bottom: 8px;
+                }
+                .container6{
+                    background-color: rgb(75, 103, 112);
+                    margin-right: 500px;
+                    border-radius: 8px;
+                    margin-top: 8px;
+                    margin-bottom: 8px;
+                    }
+                    .container7{
+                        background-color: rgb(75, 103, 112);
+                        margin-right: 500px;
+                        border-radius: 8px;
+                        margin-top: 8px;
+                        margin-bottom: 8px;
+                        }
+                        .container8{
+                            background-color: rgb(75, 103, 112);
+                            margin-right: 500px;
+                            border-radius: 8px;
+                            margin-top: 8px;
+                            margin-bottom: 8px;
+                            }
+                            .container9{
+                                background-color: rgb(75, 103, 112);
+                                margin-right: 500px;
+                                border-radius: 8px;
+                                margin-top: 8px;
+                                margin-bottom: 8px;
+                                }
+                                .container10{
+                                    background-color: rgb(75, 103, 112);
+                                    margin-right: 500px;
+                                    border-radius: 8px;
+                                    margin-top: 8px;
+                                    margin-bottom: 8px;
+                                    }
