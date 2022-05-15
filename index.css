@@ -1,4 +1,6 @@
 body {
+    background-image: url(assets/images/backagain.jpg);
+    background-size: contain;
     background-color: darkslategray;
 }
 p {
@@ -14,6 +16,9 @@ em {
 }
 #restart {
     padding: 15px;
+    background-color: rgb(75, 103, 112);
+    margin-right: 1060px;
+    border-radius: 5px;
 }
 #res {
     color: black;
@@ -34,70 +39,70 @@ em {
     flex-direction: column;
 }
 .container1{
-background-color: rgb(75, 103, 112);
+background-color: darkslategray;
 margin-right: 500px;
 border-radius: 8px;
 margin-top: 8px;
 margin-bottom: 8px;
 }
 .container2{
-    background-color: rgb(75, 103, 112);
+    background-color: darkslategray;
     margin-right: 500px;
     border-radius: 8px;
     margin-top: 8px;
     margin-bottom: 8px;
     }
     .container3{
-        background-color: rgb(75, 103, 112);
+        background-color: darkslategray;
         margin-right: 500px;
         border-radius: 8px;
         margin-top: 8px;
         margin-bottom: 8px;
         }
         .container4{
-            background-color: rgb(75, 103, 112);
+            background-color: darkslategray;
             margin-right: 500px;
             border-radius: 8px;
             margin-top: 8px;
             margin-bottom: 8px;
             }
             .container5{
-                background-color: rgb(75, 103, 112);
+                background-color: darkslategray;
                 margin-right: 500px;
                 border-radius: 8px;
                 margin-top: 8px;
                 margin-bottom: 8px;
                 }
                 .container6{
-                    background-color: rgb(75, 103, 112);
+                    background-color: darkslategray;
                     margin-right: 500px;
                     border-radius: 8px;
                     margin-top: 8px;
                     margin-bottom: 8px;
                     }
                     .container7{
-                        background-color: rgb(75, 103, 112);
+                        background-color: darkslategray;
                         margin-right: 500px;
                         border-radius: 8px;
                         margin-top: 8px;
                         margin-bottom: 8px;
                         }
                         .container8{
-                            background-color: rgb(75, 103, 112);
+                            background-color: darkslategray;
                             margin-right: 500px;
                             border-radius: 8px;
                             margin-top: 8px;
                             margin-bottom: 8px;
                             }
                             .container9{
-                                background-color: rgb(75, 103, 112);
+                                background-color: darkslategray;
                                 margin-right: 500px;
                                 border-radius: 8px;
                                 margin-top: 8px;
                                 margin-bottom: 8px;
                                 }
                                 .container10{
-                                    background-color: rgb(75, 103, 112);
+                                    background-color: darkslategray;
                                     margin-right: 500px;
                                     border-radius: 8px;
                                     margin-top: 8px;
