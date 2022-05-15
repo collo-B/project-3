@@ -1,0 +1,29 @@
+body {
+    background-image: url(/assets/images/backagain.jpg);
+    background-size: contain;
+}
+p {
+    color: white;
+    font-size: large;
+}
+em {
+    color: chocolate;
+}
+#submit {
+    padding: 15px;
+}
+#restart {
+    padding: 15px;
+}
+#res {
+    color: black;
+    background-color: chocolate;
+    font-size: x-large;
+    padding: 7px;
+    border-radius: 5px;
+}
+#done {
+    font-size: xx-large;
+    font-style: italic;
+    color: coral;
+}

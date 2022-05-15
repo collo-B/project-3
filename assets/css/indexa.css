@@ -1,12 +1,18 @@
 body {
     display: flex;
     justify-content: center;
+    background-image: url(/assets/images/coolback.jpg);
+    background-size: cover;
 }
 .btnbtn {
     display: flex;
-    justify-content: baseline;
+    justify-content: center;
     margin-top: 200px;
 }
-.startbtn {
-    padding: 10px;
+#page1 {
+    color: black;
+    background-color: rgb(75, 92, 110);
+    font-size: xx-large;
+    padding: 30px;
+    border-radius: 8px;
 }
