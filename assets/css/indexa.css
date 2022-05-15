@@ -1,0 +1,12 @@
+body {
+    display: flex;
+    justify-content: center;
+}
+.btnbtn {
+    display: flex;
+    justify-content: baseline;
+    margin-top: 200px;
+}
+.startbtn {
+    padding: 10px;
+}
