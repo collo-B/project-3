@@ -28,3 +28,8 @@ em {
     font-style: italic;
     color: coral;
 }
+.assignment {
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+}
