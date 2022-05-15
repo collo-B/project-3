@@ -21,6 +21,7 @@ em {
     font-size: x-large;
     padding: 7px;
     border-radius: 5px;
+    text-decoration: none;
 }
 #done {
     font-size: xx-large;
